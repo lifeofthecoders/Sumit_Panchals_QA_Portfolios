@@ -1,6 +1,6 @@
 <div align="center">
 
-# SUMIT PANCHAL | SENIOR QUALITY ANALYST — QUALITY ASSURANCE PORTFOLIO
+# SUMIT PANCHAL | SENIOR QUALITY ANALYST - QUALITY ASSURANCE PORTFOLIO
 
 ### A cinematic, interactive portfolio showcasing 5+ years of software quality assurance experience, manual testing expertise, project case studies, professional experience, and credentials.
 
@@ -131,36 +131,36 @@ Project descriptions and testing details are presented as portfolio case-study m
 
 ### Frontend
 
-- **React 19** — Component-based user interface.
-- **JavaScript (ES Modules)** — Application logic and component implementation.
-- **Vite 6** — Local development server and production bundler.
-- **CSS** — Responsive layouts, design system, typography, and visual effects.
-- **Framer Motion 12** — Component transitions, entrance animations, and interactive motion.
-- **Lucide React** — Consistent interface icons.
+- **React 19** - Component-based user interface.
+- **JavaScript (ES Modules)** - Application logic and component implementation.
+- **Vite 6** - Local development server and production bundler.
+- **CSS** - Responsive layouts, design system, typography, and visual effects.
+- **Framer Motion 12** - Component transitions, entrance animations, and interactive motion.
+- **Lucide React** - Consistent interface icons.
 
 ### Backend and Contact API
 
-- **Node.js 22.x** — JavaScript runtime used by the project.
-- **Express 4** — Local contact API server for development.
-- **Vercel Node.js Functions** — Production API endpoints in the `api/` directory.
-- **Express Rate Limit** — Request rate-limiting middleware for the local server.
-- **Nodemailer** — Optional SMTP delivery provider.
-- **dotenv** — Local environment configuration.
+- **Node.js 22.x** - JavaScript runtime used by the project.
+- **Express 4** - Local contact API server for development.
+- **Vercel Node.js Functions** - Production API endpoints in the `api/` directory.
+- **Express Rate Limit** - Request rate-limiting middleware for the local server.
+- **Nodemailer** - Optional SMTP delivery provider.
+- **dotenv** - Local environment configuration.
 
 ### Contact Form and Email
 
-- **Google Apps Script** — Recommended contact form delivery service.
-- **Google Mail service (`MailApp`)** — Sends contact notifications from the Google account that owns the Apps Script deployment.
-- **Server-side token validation** — Keeps the Apps Script token out of the React frontend.
-- **SMTP mode** — Optional alternative when valid SMTP credentials are configured.
-- **Email-app fallback** — Opens a pre-filled email draft when automatic delivery is unavailable; the visitor must press Send in their email application.
+- **Google Apps Script** - Recommended contact form delivery service.
+- **Google Mail service (`MailApp`)** - Sends contact notifications from the Google account that owns the Apps Script deployment.
+- **Server-side token validation** - Keeps the Apps Script token out of the React frontend.
+- **SMTP mode** - Optional alternative when valid SMTP credentials are configured.
+- **Email-app fallback** - Opens a pre-filled email draft when automatic delivery is unavailable; the visitor must press Send in their email application.
 
 ### Build and Deployment
 
-- **Vite Production Build** — Generates the optimized static site in `dist/`.
-- **Vercel** — Hosts the static frontend and serverless contact API in one project.
-- **GitHub** — Source control and deployment integration.
-- **npm** — Dependency installation and project scripts.
+- **Vite Production Build** - Generates the optimized static site in `dist/`.
+- **Vercel** - Hosts the static frontend and serverless contact API in one project.
+- **GitHub** - Source control and deployment integration.
+- **npm** - Dependency installation and project scripts.
 
 ## 📁 Project Structure
 
